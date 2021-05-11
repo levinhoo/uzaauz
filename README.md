@@ -1,2 +1,2 @@
 # uzaauz
-uzaauz demo (nochor) version
+uzauz demo (nochor) version
